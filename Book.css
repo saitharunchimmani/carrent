@@ -1,0 +1,57 @@
+.signup {
+    width: 400px;
+    margin-top: 200px;
+    margin-left:800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+  
+    
+  }
+  
+  #amount{
+    height:25px;
+    width:200px;
+  }
+  #car{
+    height:25px;
+    width:200px;
+  }
+  h2 {
+    text-align: center;
+  }
+  
+  .form {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+   input[type='text'],
+  input[type='email'],
+  input[type='password'] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  } 
+  
+   button[type='submit'] {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+  } 
+  
+  button[type='submit']:hover {
+    background-color: #45a049;
+  } 
+  
